@@ -1,0 +1,8 @@
+[1] Oliver Morsch and Markus Oberthaler. Reviews of Modern Physics, 78(1):179, 2006.
+[2] P. Szulim, M. Trippenbach, Y. B. Band, M. Gajda, and M. Brewczyk. New Journal of Physics, 24:033041, 2022. 
+[3] Igor Kuzmenko, Mirosław Brewczyk, Grzegorz Łach, Marek Trippenbach, and Y. B. Band, 2023. submitted to Physical Review Letters, arXiv:2308.07647. 
+[4] F. Le Kien, P. Schneeweiss, and A. Rauschenbeutel. European Physical Journal D, 67:92, 2013. 
+[5] D. Jaksch. Contemporary Physics, 45(5):367381, 2004. 
+[6] J. von Neumann and E. Wigner. Phys. Z., 30:467, 1929. 
+[7] L. D. Landau and E. M. Lifshitz. Quantum Mechanics. Pergamon Press, 1981. 
+[8] NDEigensystem, Mathematica, Wolfram Research Inc. https://reference.wolfram.com/language/ref/NDEigensystem.html
